@@ -1,11 +1,3 @@
-# Contributing Guidelines
+# Contributing
 
-All contributions are welcome.
-
-You can contribute by:
-
-- Reporting bugs
-- Fixing bugs
-- Improving documentation
-- Suggesting enhancements
-- Sharing ideas
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
