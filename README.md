@@ -128,7 +128,7 @@ This project is licensed under the **Apache License 2.0**.
 
  - GitHub: [@mukhammedofficial](https://github.com/mukhammedofficial)
  - Course: IBM - **Getting Started with Git and GitHub**
- - Project Repository: [Final-project](https://github.com/mukhammedofficial/github-final-project)
+ - Project Repository: [github-final-project](https://github.com/mukhammedofficial/github-final-project)
 ---
 
 ## 🙏 Acknowledgments
@@ -151,7 +151,7 @@ It demonstrates:
 
 For questions or issues related to this project:
 
-1. Check the [Issues](https://github.com/mukhammedofficial/Final-project/issues) page
+1. Check the [Issues](https://github.com/mukhammedofficial/github-final-project/issues) page
 2. Review the course discussion forums
 3. Contact the course instructors
 
