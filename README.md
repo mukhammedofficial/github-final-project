@@ -4,7 +4,7 @@ This project is part of the final assignment for the IBM course “Getting Start
 
 It provides a simple Bash script named simple-interest.sh to calculate simple interest based on user input.
 
-⸻
+---
 
 ##📌 Project Description
 
@@ -25,19 +25,19 @@ This project demonstrates key Git and GitHub concepts such as:
 
 ⚠️ This script is for educational purposes only and should not be used in production.
 
-⸻
+---
 
 ## 📊 Input
  • p: principal amount
  • t: time period in years
  • r: annual rate of interest
 
-⸻
+---
 
 ## 📈 Output
  • simple interest = p * t * r / 100
 
-⸻
+---
 
 ## 🚀 Features
  • Interactive command-line interface
@@ -45,7 +45,7 @@ This project demonstrates key Git and GitHub concepts such as:
  • Accurate calculation using Bash
  • Lightweight and easy to use
 
-⸻
+---
 
 ## 📦 Installation & Setup
 
@@ -55,7 +55,7 @@ git clone https://github.com/mukhammedofficial/github-final-project.git
 cd github-final-project
 
 
-⸻
+---
 
 ## ▶️ Usage
 
@@ -68,7 +68,7 @@ Enter the required values when prompted:
  • Time period (years)
  • Rate of interest
 
-⸻
+---
 
 ## 🏗️ Project Architecture
 
@@ -81,7 +81,7 @@ github-final-project/
 └── simple-interest.sh
 
 
-⸻
+---
 
 ## 🤝 Contributing
 
@@ -94,20 +94,20 @@ You can contribute by:
  • Suggesting improvements
  • Enhancing documentation
 
-⸻
+---
 
 ## 📜 Code of Conduct
 
 This project follows a Code of Conduct to ensure a respectful and inclusive environment.
 See CODE_OF_CONDUCT.md for more details.
 
-⸻
+---
 
 ## 📝 License
 
 This project is licensed under the Apache License 2.0.
 
-⸻
+---
 
 ## 👨‍💻 Author
 
@@ -116,13 +116,13 @@ This project is licensed under the Apache License 2.0.
  - GitHub: [@mukhammedofficial](https://github.com/mukhammedofficial)
  - Course: IBM - Getting Started with Git and GitHub
  - Project Repository: [Final-project](https://github.com/mukhammedofficial/github-final-project)
-⸻
+---
 
 ## 🙏 Acknowledgments
  • IBM Skills Network
  • Open-source community
 
-⸻
+---
 
 ## 📚 Additional Resources
 
@@ -131,7 +131,7 @@ It demonstrates:
  • GitHub best practices
  • Version control using Git
 
-⸻
+---
 
 ## 📞 Support
 
