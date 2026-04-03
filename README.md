@@ -118,7 +118,3 @@ It demonstrates:
  • Open-source community
 
 ⸻
-
-:::
-
-⸻
